@@ -1,346 +1,312 @@
-//Mon Sep 01 2025 05:42:18 GMT+0000 (Coordinated Universal Time)
+//Sat Sep 13 2025 12:54:50 GMT+0000 (Coordinated Universal Time)
 //Base:<url id="cv1cref6o68qmpt26ol0" type="url" status="parsed" title="GitHub - echo094/decode-js: JS混淆代码的AST分析工具 AST analysis tool for obfuscated JS code" wc="2165">https://github.com/echo094/decode-js</url>
 //Modify:<url id="cv1cref6o68qmpt26olg" type="url" status="parsed" title="GitHub - smallfawn/decode_action: 世界上本来不存在加密，加密的人多了，也便成就了解密" wc="741">https://github.com/smallfawn/decode_action</url>
-var _0xodU = "jsjiami.com.v7";
-const _0x5c51db = _0x410c,
-  _0x54ed27 = (function (e, r, i, o, s) {
-    s = "sh".split("").reverse().join("");
-    for (var n = 661033, t = function (e, r, i, o, s, n, t) {
-        return (e = (e = e[r = "split"](""))[i = "reverse"]("v"))[o = "join"]("");
-      }, W = 0, c = 0, v = _0x410c, l = (s += "up", o = t((W = "tfi") + "hs"), s = t(s), t = 0, e()); --r + n;) try {
-      W = -parseInt(v(418, "XNMW")) + parseInt(v(348, "(vz@")) / 2 + -parseInt(v(327, "bRfm")) / 3 + -parseInt(v(332, "WMNX".split("").reverse().join(""))) / 4 * (parseInt(v(353, "^@h#".split("").reverse().join(""))) / 5) + parseInt(v(243, "QYwP".split("").reverse().join(""))) / 6 + -parseInt(v(347, "#h@^")) / 7 + -parseInt(v(423, "C70y")) / 8 * (-parseInt(v(270, ")8vL")) / 9);
-    } catch (e) {
-      W = t;
-    } finally {
-      c = l[o]();
-      if (191 <= r) {
-        if (t) {
-          if (i) {
-            W = c;
-          } else {
-            i = c;
-          }
-        } else {
-          t = c;
+var _0xod1 = "jsjiami.com.v7";
+const _0x52efcb = _0xf00e;
+(function (_0xf4bcdb, _0x179060, _0x11cc0f, _0x27810d, _0x2b8b6e, _0x38ba25, _0x557f05) {
+  _0xf4bcdb = _0xf4bcdb >> 9;
+  _0x38ba25 = "hs";
+  _0x557f05 = "hs";
+  return function (_0xf5671b, _0x2d90c1, _0x1dfa52, _0x5cf944, _0x53b31a) {
+    const _0x42da19 = _0xf00e;
+    _0x5cf944 = "tfi";
+    _0x38ba25 = _0x5cf944 + _0x38ba25;
+    _0x53b31a = "up";
+    _0x557f05 += _0x53b31a;
+    _0x38ba25 = _0x1dfa52(_0x38ba25);
+    _0x557f05 = _0x1dfa52(_0x557f05);
+    _0x1dfa52 = 0;
+    const _0x403556 = _0xf5671b();
+    while (true && --_0x27810d + _0x2d90c1) {
+      try {
+        _0x5cf944 = parseInt(_0x42da19(491, "xSv5")) / 1 + -parseInt(_0x42da19(478, "hrtu")) / 2 + -parseInt(_0x42da19(498, "O[%O")) / 3 + -parseInt(_0x42da19(497, "iHag")) / 4 * (parseInt(_0x42da19(483, "fDeR")) / 5) + -parseInt(_0x42da19(442, "bb2g")) / 6 + parseInt(_0x42da19(438, "xcad")) / 7 + -parseInt(_0x42da19(474, "i$Sw")) / 8 * (-parseInt(_0x42da19(489, "G1Am")) / 9);
+      } catch (_0x555647) {
+        {
+          _0x5cf944 = _0x1dfa52;
         }
-      } else {
-        if (t == i.replace(new RegExp("]=nIgqkySBKhTwrtlCPNpHUf[".split("").reverse().join(""), "g"), "")) {
-          if (W === n) {
-            l["nu".split("").reverse().join("") + o](c);
-            break;
+      } finally {
+        _0x53b31a = _0x403556[_0x38ba25]();
+        if (_0xf4bcdb <= _0x27810d) {
+          _0x1dfa52 ? _0x2b8b6e ? _0x5cf944 = _0x53b31a : _0x2b8b6e = _0x53b31a : _0x1dfa52 = _0x53b31a;
+        } else {
+          {
+            if (_0x1dfa52 == _0x2b8b6e.replace(/[FStHndJRqhKuANWBX=]/g, "")) {
+              if (_0x5cf944 === _0x2d90c1) {
+                {
+                  _0x403556["un" + _0x38ba25](_0x53b31a);
+                  break;
+                }
+              }
+              _0x403556[_0x557f05](_0x53b31a);
+            }
           }
-          l[s](c);
         }
       }
     }
-  }(_0x5e57, 193), _0x5e57 && (_0xodU = 193), function () {
-    const r = _0x410c,
-      t = {
-        gpKxQ: function (e, r) {
-          return e(r);
-        },
-        mvhwV: r(294, "xeZ)".split("").reverse().join("")),
-        oGWzF: function (e, r) {
-          return e === r;
-        },
-        VRewT: r(307, "#Dps"),
-        etSVs: r(383, "rJg*".split("").reverse().join("")),
-        tLdQp: function (e, r) {
-          return e === r;
-        },
-        mrkFA: r(350, "(vz@"),
-        NcRQW: r(336, "Eyyz".split("").reverse().join(""))
-      };
-    let W = !0;
-    return function (i, o) {
-      const s = r,
-        n = {
-          EBaRs: t[s(276, "qUM^")],
-          NKmhN: function (e, r) {
-            var i = s;
-            return t[i(405, ")8vL")](e, r);
-          },
-          Fvvlb: t[s(286, "c%e8")],
-          eoTpY: t[s(296, "hX5Q".split("").reverse().join(""))]
-        };
-      var e;
-      return t[s(407, "Xmfa".split("").reverse().join(""))](t[s(425, "lT@E".split("").reverse().join(""))], t[s(366, "MQwS")]) ? t[s(391, "#OsE".split("").reverse().join(""))](_0x2c8453, new _0x4b5990(s(245, "*gJr") + _0x2f34b4[s(311, "Lv8)".split("").reverse().join(""))])) : (W ? e = function () {
-        var e = s,
-          r = {
-            OZkpM: n[e(259, "7)t9")]
-          };
-        return n[e(386, "S4Es".split("").reverse().join(""))](n[e(368, "XQLm")], n[e(378, "PN[a")]) ? _0x571c47[e(319, "Xmfa".split("").reverse().join(""))]()[e(343, "Lv8)".split("").reverse().join(""))](r[e(310, "MQwS")])[e(250, "csY1".split("").reverse().join(""))]()[e(301, "y07C".split("").reverse().join(""))](_0x16ee1d)[e(328, "PN[a")](r[e(356, "PwYQ")]) : o ? (r = o[e(255, "h4nW")](i, arguments), o = null, r) : 0;
-      } : e = function () {}, W = !1, e);
-    };
-  }()),
-  _0x2214ac = _0x54ed27(this, function () {
-    var e = _0x410c,
-      r = {
-        AwSfy: e(379, "8Ljq".split("").reverse().join(""))
-      };
-    return _0x2214ac[e(340, "@IxE".split("").reverse().join(""))]()[e(305, "7)t9")](r[e(362, "SE3h".split("").reverse().join(""))])[e(416, "R*IJ".split("").reverse().join(""))]()[e(321, "#WuR")](_0x2214ac)[e(240, "ExI@")](r[e(389, "bRfm")]);
-  }),
-  _0xf4e279 = (_0x2214ac(), require(_0x5c51db(318, ")8vL"))),
-  _0x19756f = require("vm"),
-  _0xf075df = require(_0x5c51db(396, "7)t9")),
-  _0x15cd19 = require(_0x5c51db(399, "Q5Xh")),
-  _0x410535 = _0x5c51db(381, "sE4S");
-function _0x410c(n, e) {
-  const t = _0x5e57();
-  return (_0x410c = function (e, r) {
-    e -= 240;
-    let i = t[e];
-    if (0 === _0x410c.ICKmMJ) {
-      W = function (s, e) {
-        let n = "",
-          i = "",
-          t = n + W;
-        for (let e = 0, r, i, o = 0; i = s.charAt(o++); ~i && (e % 4 ? r = 64 * r + i : r = i, e++ % 4) && (t.charCodeAt(o + 10) - 10 != 0 ? n += String.fromCharCode(255 & r >> (-2 * e & 6)) : n += e)) i = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=".indexOf(i);
-        for (let e = 0, r = n.length; e < r; e++) i += "%" + ("00" + n.charCodeAt(e).toString(16)).slice(-2);
-        return decodeURIComponent(i);
-      };
-      _0x410c.gAMwxW = function (r, e, i) {
-        let o = [],
-          s = 0,
-          n,
-          t = "";
-        for (r = W(r), i = 0; i < 256; i++) o[i] = i;
-        for (i = 0; i < 256; i++) {
-          s = (s + o[i] + e.charCodeAt(i % e.length)) % 256;
-          n = o[i];
-          o[i] = o[s];
-          o[s] = n;
-        }
-        i = 0;
-        for (let e = s = 0; e < r.length; e++) {
-          i = (i + 1) % 256;
-          s = (s + o[i]) % 256;
-          n = o[i];
-          o[i] = o[s];
-          o[s] = n;
-          t += String.fromCharCode(r.charCodeAt(e) ^ o[(o[i] + o[s]) % 256]);
-        }
-        return t;
-      };
-      n = arguments;
-      _0x410c.ICKmMJ = !0;
-    }
-    var W,
-      o = t[0],
-      o = e + o,
-      s = n[o];
-    s ? i = s : (0 === _0x410c.QHQYYr && ((s = function (e) {
-      this.pRHmMa = e;
-      this.GwCIFe = [1, 0, 0];
-      this.ViyNeh = function () {
-        return "newState";
-      };
-      this.iQDgpk = "\\w+ *\\(\\) *{\\w+ *";
-      this.eUyneo = "['|\"].+['|\"];? *}";
-    }).prototype.cVEofJ = function () {
-      var e = new RegExp(this.iQDgpk + this.eUyneo).test(this.ViyNeh.toString()) ? --this.GwCIFe[1] : --this.GwCIFe[0];
-      return this.sKMtCS(e);
-    }, s.prototype.sKMtCS = function (e) {
-      return Boolean(~e) ? this.maIXaM(this.pRHmMa) : e;
-    }, s.prototype.maIXaM = function (e) {
-      for (let e = 0, r = this.GwCIFe.length; e < r; e++) {
-        this.GwCIFe.push(Math.round(Math.random()));
-        r = this.GwCIFe.length;
-      }
-      return e(this.GwCIFe[0]);
-    }, new s(_0x410c).cVEofJ(), _0x410c.QHQYYr = !0), i = _0x410c.gAMwxW(i, r), n[o] = i);
-    return i;
-  })(n, e);
-}
-function _0x5e57() {
-  const e = [_0xodU, "HjTStsjnpkifUaICmqniwH.hcSyoPmKl.NBvg7rf==", "Bk8NdRWSdBOW".split("").reverse().join(""), "ofhcSmkny00+WRy", "ddqBfe1/AN8", "keBcGMWMW4/cPW", "FqZcPI9IgZ4", "W6OyW6rWpGC", "p8kRW4y4yG", "eCovd8ojda", "kCoamq0", "y5WTS5W".split("").reverse().join(""), "gmkcW67dImod", "6k2p5Rgw6lse5PERW5pOR7pOGi7NSzWFto++T3nMzmkhWQnwW5mtW5vzobGpWOtdJCknlJ54WQhdImkSs8oRW5BcThOIBwtcMCkobW", "W7yMuq", "CCkBBLuZW6FcTb/dOmktvKPx", "f0WSF8oR", "lSkVut5O", "WOb8W5SvW7q", "e8o3gqTx", "WsRcRRW4CPW".split("").reverse().join(""), "GVcNRWMq4Whi7W1rOW".split("").reverse().join(""), "q5QWIomhzk8bP56WQGPW".split("").reverse().join(""), "yueQgSk8i0S", "W5HOWROLrCoCAmoxWO9Ln8ooWRq", "8QWuoCSdBJB9j7W".split("").reverse().join(""), "o8oRddrz", "DmkYDvu3W7uAWOm", "W6JdG0nDqW", "tntx+47W".split("").reverse().join(""), "W7HTEqFdOa", "SQWGzcgxGdq".split("").reverse().join(""), "WRpdPcfPmG", "oSoukSoHoG", "4o8jRkmJcZPW".split("").reverse().join(""), "r8oZqSkFa8oFC8kw", "W6xcVdXjha", "JkCjNafk".split("").reverse().join(""), "W4ddVfNcT0m", "W7aUW5tdNmk+", "8RW/0uzykmGchfi".split("").reverse().join(""), "SPWKo8AHWRWaPXdGkSKc/4W".split("").reverse().join(""), "WPFcPZP8DSoPgG", "nfi2rCobwmkm", "WR1pWPzDjW", "iPWqz6W+55W".split("").reverse().join(""), "WQdxGp".split("").reverse().join(""), "GjgomtbHJl/iXwqnhs".split("").reverse().join(""), "ir7dRxzIWR8cWPpcM0y", "WQtdSYuqW5a", "W6elwmkfWQ4", "aSoSW6u", "WBooCcpkmtKo8x".split("").reverse().join(""), "isTddvUcR5Wv56W/k8bnoSoWkCr".split("").reverse().join(""), "GNdtPWjkmh8W7WloCmvomQc3OW".split("").reverse().join(""), "WPK7W6jYbSkpCSo9WQbxxSovWOO", "hoCaJomUcd7W".split("").reverse().join(""), "WO3cVCoRj8oV", "lSkLW67dQmotWPK", "5yM95AwZ5y2Q5AYj5OML772H5B+V5Awr5OQV6kkHxmoCrMe", "d8onECkzwG", "sWKMcRwd".split("").reverse().join(""), "qgUkSE655W".split("").reverse().join("")].concat(["4RWTP6WoD7W".split("").reverse().join(""), "k2uSi8k9ju7cOmo4WRm", "FoSSdh7W2oSl".split("").reverse().join(""), "GaE55WPWRW".split("").reverse().join(""), "nkSVdtYk".split("").reverse().join(""), "WOKIWQ7cRq3dSuBdPvxcSa", "qzKk8ENo8o".split("").reverse().join(""), "abekmqPomx".split("").reverse().join(""), "Wj5ugm".split("").reverse().join(""), "CvRWooSPdFdt3r7W".split("").reverse().join(""), "8NOch5WPyWVdtQW".split("").reverse().join(""), "FSkFWRBcPtJcR8o1FCoWzIG", "gv4xu8oo", "oCklW5mqsq", "W7qtW7b2cq", "Gq4W0kSl".split("").reverse().join(""), "WP8KWR3cTGO", "WO/dGCoHCKmvW6qFr8oAWRVcRdi", "wZGxdIb6", "WQpdVWbkmW", "qBNkCFWomg".split("").reverse().join(""), "uQWnH7WD17W".split("").reverse().join(""), "GzjkmHdlMJc7PW3L7WMadTcRfy".split("").reverse().join(""), "xmkHW67dP8kb", "W7f1Ba/dRq", "rCk4mSopbCkZW6fZW6JcJ0NdOsS", "LfJoHoCd".split("").reverse().join(""), "WPldPaqVW5pcOG", "GRKwUR9s+Rc/rCMoSgQCamrSrPdtqyWoCKdp7WSe4W3o8g6k8ySzPWTjvOc7dEl11UcZcufY77IrQWAg75Jci6X2k6y+77Lsl6swA5o2y5KwA5EMy5".split("").reverse().join(""), "pdhdQ8kyjGboACo3wW", "WP81prNdRc/dGr4", "WONcTIH7ySo9pdeDWOi", "W4NcOYrmbG", "k3qSjCkRpG", "WRWCv4WcX4W".split("").reverse().join(""), "aWBdTmoDWRG", "GeKombWo8e".split("").reverse().join(""), "WPddG1hcL8ktW7SVW43dLCoSeSk3AW", "m7Wvomj6kSwaL2tWO2Od3Li".split("").reverse().join(""), "ebOsb1i", "PfrPchGF".split("").reverse().join(""), "WkStdS4W".split("").reverse().join(""), "rkmCji7WikSPc76W+zOWEbQWVK5W".split("").reverse().join(""), "WPFcKcldISoiWQb6", "WOVdQZWOW5a", "kvdcHW", "h2eVw8oT", "GOchRWikmE".split("").reverse().join(""), "WP5SWRjsmG", "gg8qE8ka", "ld0omKe", "Wd1HrGcZ6W".split("").reverse().join(""), "W5GkW5zKja", "W6JcVmo2dCoruLy", "ArqDkau", "fCkWwW9/WPpdM8kEWOboBIzYW6NdMSko", "qQWmn5W3z7W".split("").reverse().join(""), "eCojhZzi", "ctpdVmkamq", "Wf91HNcB7W".split("").reverse().join(""), "W7b4wCk9gW", "lCkHW7VdSSoEWPdcP8on", "WQc37W+rPW1oCqjk8A8omb".split("").reverse().join("")].concat(["UoCPc/KPclOW".split("").reverse().join(""), "WRVcPmoTmSoy", "WQZcISkgnSoj", "W7xcOt9Pha", "yPWr4PWhoCScp4W60vHcB0p".split("").reverse().join(""), "ObdIitt".split("").reverse().join(""), "7omOdFcF896WOa7W0k8Icxuz".split("").reverse().join(""), "tmk0W7VdSmkCW5VdOmkwW6qk", "WO3cMCkvdSkHcwmYW40TW7XcW51UWOldOKRdUSktWQ91FJZcTCoOvIJcNHJdLhBcJJNdL8k0WRbyW7H9W5K", "vCotp8oOhq/cGW", "WnqommDoCa".split("").reverse().join(""), "oG/dRwzYWR4Y", "Wh1HPWG5PW".split("").reverse().join(""), "WQVcPSkmfSov", "pHNdGSoUWQ5YWOC6m2S", "8oSQdZ6Wqk8j".split("").reverse().join(""), "W73cGmkhla0", "sCk5z8k6kW", "umoXzSktpq", "l8kMrarOWQRdHW", "omkRwIj0WORdNmktWOzHzbHNW7JdISkj", "W4VcHCk1oG", "WOdcNg3dQq", "qPWCo8RdV6WVkmm".split("").reverse().join(""), "5B+65Asj5yMu5AEe5yYb776c6k6i56Mt56YWW4NdPfG", "QiuuHkmz".split("").reverse().join(""), "WRhdPGiU", "qfxkSxtkCx".split("").reverse().join(""), "WOpdOZm1W5y", "7omIdV7WYomk".split("").reverse().join(""), "qIdZdVclRWKoCs3b6Wru0CKo8Hd7OW".split("").reverse().join(""), "s9Zx8kCk".split("").reverse().join(""), "okClAy1n".split("").reverse().join(""), "WRlcLH1FnW", "W7ruEXldPa", "W5y6W6VdKSkD", "W7OkW6e", "xqBcRZvVedOhlSoxr8kGWPWNCKVdUSojW5ddJmonWRPrCcqTvWz0W7/dRaG8qCkfWRC4WRzBWPVcVSobWPlcKmoyCCoxtmkrW7pcMeKgdCoeW7i", "qpukCMddIb".split("").reverse().join(""), "WQWFoG", "W6ZcTSo0cmoasuO+", "W60Rw8kmWQ8", "WONcGSkch8oVtYnT", "W7WGomu7kSOdxZTdhQW".split("").reverse().join(""), "WONcGSkg", "y1VcTtqJW7L0WQ7cM0BdPmkODa", "tmkLW67dKmkaW4xdHSkwW7uB", "W6SEW5DPnG", "WHdZQW/9qv7kSi".split("").reverse().join(""), "dt/dRCklsq", "W5ZdT8klE8koWRX6tCk2WPxdOSk6WRlcJa", "atskmw+oSf".split("").reverse().join(""), "1o8l8o8Qc36W".split("").reverse().join(""), "4sVd/Xd/GPW".split("").reverse().join(""), "WOG2ar7dUW", "WQldQXmNW5e", "yq51e8kwbmoro3TdlCoeWO8", "i6WnaQW596W".split("").reverse().join(""), "kmoSkmovvq", "WP3cTrnKvq", "mOWAu7W3qKA0kSE".split("").reverse().join(""), "WQFcKuhcUmo9"]));
-  return (_0x5e57 = function () {
-    return e;
-  })();
-}
-function _0x5a05b6(r) {
-  const W = _0x5c51db,
-    c = {
-      mnutT: function (e, r) {
-        return e(r);
-      },
-      dqeUr: function (e, r) {
-        return e !== r;
-      },
-      ZlVdO: W(375, "sE4S"),
-      WwQCp: W(388, "9t)7".split("").reverse().join("")),
-      pFZyw: W(260, "MQwS"),
-      Ompcs: function (e, r) {
-        return r <= e;
-      },
-      pAjrk: function (e, r) {
-        return e < r;
-      },
-      AIkTF: function (e, r) {
-        return e !== r;
-      },
-      oxwZY: W(395, "p8#%"),
-      cbkTH: W(314, "XQLm"),
-      RyJiW: W(355, "1Ysc"),
-      LMjzb: W(398, "xIXY"),
-      obYse: W(373, "p8#%"),
-      NkWGc: function (e, r) {
-        return r <= e;
-      },
-      obdRZ: function (e, r) {
-        return e === r;
-      },
-      yDLYj: W(367, "Eyyz".split("").reverse().join("")),
-      xDTWY: W(401, "Q5Xh"),
-      czPeP: function (e, r) {
-        return e + r;
-      },
-      hfJsD: W(412, "ExI@"),
-      LoqYQ: W(410, "(vz@"),
-      yaJYc: W(258, "lHxE"),
-      gwZkB: W(241, "ExI@"),
-      Mohic: W(285, "[yAF")
-    };
-  return new Promise((o, s) => {
-    const n = W,
-      t = {
-        gPeDR: function (e, r) {
-          var i = _0x410c;
-          return c[i(312, "5v^m".split("").reverse().join(""))](e, r);
-        },
-        onNuw: function (e, r) {
-          var i = _0x410c;
-          return c[i(349, ")Zex")](e, r);
-        },
-        qmsLy: function (e, r) {
-          var i = _0x410c;
-          return c[i(324, "h3ES")](e, r);
-        },
-        EIyPV: function (e, r) {
-          var i = _0x410c;
-          return c[i(364, "PN[a")](e, r);
-        },
-        rRQXr: function (e, r) {
-          var i = _0x410c;
-          return c[i(267, "A(yj")](e, r);
-        },
-        IeSxn: c[n(330, "#Dps")],
-        avRox: c[n(404, "OqE%")],
-        IizYW: c[n(248, "p8#%")],
-        JlJns: function (e, r) {
-          var i = n;
-          return c[i(308, "#vrA")](e, r);
-        },
-        GwhTK: c[n(291, "lHxE")],
-        xufDt: c[n(275, "VgdD")],
-        UcVpg: function (e, r) {
-          var i = n;
-          return c[i(345, "8Ljq".split("").reverse().join(""))](e, r);
-        },
-        fjgMa: function (e, r) {
-          var i = n;
-          return c[i(284, ")8vL")](e, r);
-        },
-        LfvGx: function (e, r) {
-          var i = n;
-          return c[i(385, "lHxE")](e, r);
-        },
-        HlmAR: c[n(400, "n9bA")],
-        hMTPj: c[n(273, "zyyE")]
-      },
-      e = new URL(r),
-      i = _0xf4e279[n(272, "afmX")]({
-        protocol: e[n(282, "#OsE".split("").reverse().join(""))],
-        hostname: e[n(247, "YXIx".split("").reverse().join(""))],
-        port: e[n(325, "h4nW")] || 80,
-        path: c[n(304, "C70y")](e[n(371, "9t)7".split("").reverse().join(""))], e[n(254, "SE3h".split("").reverse().join(""))] || ""),
-        method: c[n(265, "uwVs".split("").reverse().join(""))],
-        headers: {
-          "User-Agent": c[n(316, "#Dps")],
-          Accept: c[n(281, "S4Es".split("").reverse().join(""))],
-          Connection: c[n(246, "uHJK".split("").reverse().join(""))]
-        }
-      }, e => {
-        var i = n;
-        if (t[i(354, "hX5Q".split("").reverse().join(""))](t[i(263, "PwYQ")], t[i(277, "Xmfa".split("").reverse().join(""))])) {
-          if (t[i(374, "C70y")](e[i(380, "qv5!")], 300) && t[i(292, "MQwS")](e[i(372, "#Dps")], 400) && e[i(363, "lT@E".split("").reverse().join(""))][i(251, "xeZ)".split("").reverse().join(""))]) {
-            return t[i(329, "!u7$".split("").reverse().join(""))](o, t[i(369, "ZS7O".split("").reverse().join(""))](_0x5a05b6, e[i(384, "XNMW")][i(413, "E@Tl")]));
-          }
-          if (t[i(331, "MQwS")](e[i(387, "8Ljq".split("").reverse().join(""))], 200)) {
-            if (!t[i(360, "xeZ)".split("").reverse().join(""))](t[i(309, "DSUn")], t[i(361, "ZS7O".split("").reverse().join(""))])) {
-              return t[i(256, "rJg*".split("").reverse().join(""))](s, new Error(i(406, "KJHu") + e[i(339, "mLQX".split("").reverse().join(""))]));
-            }
-            if (t[i(323, "h4nW")](_0x567602[i(341, "uHJK".split("").reverse().join(""))], 300) && t[i(358, "lHxE")](_0x5eabd8[i(315, "A(yj")], 400) && _0x26d136[i(421, "OqE%")][i(415, "S4Es".split("").reverse().join(""))]) {
-              return t[i(334, "Xmfa".split("").reverse().join(""))](_0x1d4e98, t[i(376, "ZS7O".split("").reverse().join(""))](_0x5692d5, _0x315a1f[i(299, "EsO#")][i(287, "1Ysc")]));
-            }
-            if (t[i(414, "$[LU")](_0x21189a[i(269, "VuL$")], 200)) {
-              return t[i(244, "5C@W".split("").reverse().join(""))](_0x15fd68, new _0x44513e(i(359, "QYwP".split("").reverse().join("")) + _0x1d81ee[i(295, "XNMW")]));
-            }
-            _0x5d82ce[i(288, "bRfm")](t[i(322, "PwYQ")]);
-            let r = "";
-            _0x55a5de.on(t[i(279, "$7u!")], e => r += e);
-            _0x433b6e.on(t[i(297, "$[LU")], () => _0x156438(r));
-          }
-          e[i(377, "#vrA")](t[i(411, "mLQX".split("").reverse().join(""))]);
-          let r = "";
-          e.on(t[i(424, "spD#".split("").reverse().join(""))], e => r += e);
-          e.on(t[i(402, "m^v5")], () => o(r));
-        } else {
-          if (_0x8f751b) {
-            e = _0x359c54[i(283, "ZS7O".split("").reverse().join(""))](_0x37f897, arguments);
-            _0x524cad = null;
-            return e;
-          }
-        }
-      });
-    i[n(419, "qv5!")](15e3, () => {
-      var e = n,
-        r = {
-          SklIR: function (e, r) {
-            var i = _0x410c;
-            return c[i(422, "C*uA")](e, r);
-          },
-          PXAhW: function (e, r) {
-            var i = _0x410c;
-            return c[i(390, "n9bA")](e, r);
-          }
-        };
-      if (!c[e(264, "%EqO".split("").reverse().join(""))](c[e(280, "rJg*".split("").reverse().join(""))], c[e(313, "$LuV".split("").reverse().join(""))])) {
-        return r[e(249, "R*IJ".split("").reverse().join(""))](_0x1ec865, r[e(266, "zyyE")](_0x26b78f, _0x109e55[e(278, "a[NP".split("").reverse().join(""))][e(268, "uwVs".split("").reverse().join(""))]));
-      }
-      i[e(252, "Arv#".split("").reverse().join(""))](new Error(c[e(408, "c%e8")]));
-    });
-    i.on(c[n(342, "O7SZ")], e => s(e));
-    i[n(261, "^MUq".split("").reverse().join(""))]();
+  }(_0x11cc0f, _0x179060, function (_0x3b0fdf, _0x28e3a8, _0x1e0037, _0x10b08c, _0x335801, _0x2f0be5, _0x1235c8) {
+    _0x28e3a8 = "split";
+    _0x3b0fdf = arguments[0];
+    _0x3b0fdf = _0x3b0fdf[_0x28e3a8]("");
+    _0x1e0037 = "reverse";
+    _0x3b0fdf = _0x3b0fdf[_0x1e0037]("v");
+    _0x10b08c = "join";
+    1805603;
+    return _0x3b0fdf[_0x10b08c]("");
   });
+}(96256, 381912, _0x1e81, 190), _0x1e81) && (_0xod1 = _0x1e81);
+const _0x541b7e = {
+  rejectUnauthorized: false
+};
+const https = require(_0x52efcb(501, "!nY0"));
+const agent = new https[_0x52efcb(490, "YEfx")](_0x541b7e);
+const accounts = (process.env[_0x52efcb(495, "O[%O")] || "")[_0x52efcb(494, "BKbG")]("\n")[_0x52efcb(496, "fDeR")](_0x5726b8 => _0x5726b8.trim())[_0x52efcb(446, "i)%E")](Boolean).map(_0x1ec2e9 => {
+  const _0x7d9df2 = _0x52efcb;
+  const [_0x199f63, _0x27e2f2] = _0x1ec2e9[_0x7d9df2(456, "MEdP")]("#");
+  return {
+    remark: _0x199f63[_0x7d9df2(486, "FfLh")](),
+    token: _0x27e2f2.trim()
+  };
+});
+!accounts[_0x52efcb(472, "JM&e")] && (console[_0x52efcb(435, "^D!&")](_0x52efcb(464, "!xVY")), process.exit(0));
+const baseURL = _0x52efcb(477, "4P2n");
+const today = new Date()[_0x52efcb(455, "xcad")]()[_0x52efcb(462, "Ty0Q")](0, 10);
+async function getTaskList(_0x2adffd) {
+  const _0x58e95d = {
+    "X-Access-Token": _0x2adffd
+  };
+  const _0x5be0b5 = {
+    headers: _0x58e95d,
+    agent: agent
+  };
+  const _0x274a3d = await fetch(baseURL + "/getCalendar", _0x5be0b5);
+  return _0x274a3d.json();
+}
+function _0xf00e(_0x5cd6e9, _0x4d4790) {
+  const _0x3efbb4 = _0x1e81();
+  _0xf00e = function (_0x14e7b0, _0x5008c7) {
+    {
+      _0x14e7b0 = _0x14e7b0 - 431;
+      let _0x42ac58 = _0x3efbb4[_0x14e7b0];
+      if (_0xf00e.QlvJna === undefined) {
+        var _0xcff0da = function (_0x410be1) {
+          const _0x9ac808 = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=";
+          let _0x2c35ba = "";
+          let _0x3512e9 = "";
+          for (let _0xefaa40 = 0, _0x59ffe0, _0x4a2dc5, _0x3bba3f = 0; _0x4a2dc5 = _0x410be1.charAt(_0x3bba3f++); ~_0x4a2dc5 && (_0x59ffe0 = _0xefaa40 % 4 ? _0x59ffe0 * 64 + _0x4a2dc5 : _0x4a2dc5, _0xefaa40++ % 4) ? _0x2c35ba += String.fromCharCode(255 & _0x59ffe0 >> (-2 * _0xefaa40 & 6)) : 0) {
+            _0x4a2dc5 = _0x9ac808.indexOf(_0x4a2dc5);
+          }
+          for (let _0x1cea4d = 0, _0x41f9c3 = _0x2c35ba.length; _0x1cea4d < _0x41f9c3; _0x1cea4d++) {
+            _0x3512e9 += "%" + ("00" + _0x2c35ba.charCodeAt(_0x1cea4d).toString(16)).slice(-2);
+          }
+          return decodeURIComponent(_0x3512e9);
+        };
+        const _0x5851b0 = function (_0x3e4a85, _0x107c5a) {
+          let _0x1bdaad = [];
+          let _0x576a3e = 0;
+          let _0x24db1c;
+          let _0x44e6f1 = "";
+          _0x3e4a85 = _0xcff0da(_0x3e4a85);
+          let _0x284187;
+          for (_0x284187 = 0; _0x284187 < 256; _0x284187++) {
+            _0x1bdaad[_0x284187] = _0x284187;
+          }
+          for (_0x284187 = 0; _0x284187 < 256; _0x284187++) {
+            _0x576a3e = (_0x576a3e + _0x1bdaad[_0x284187] + _0x107c5a.charCodeAt(_0x284187 % _0x107c5a.length)) % 256;
+            _0x24db1c = _0x1bdaad[_0x284187];
+            _0x1bdaad[_0x284187] = _0x1bdaad[_0x576a3e];
+            _0x1bdaad[_0x576a3e] = _0x24db1c;
+          }
+          _0x284187 = 0;
+          _0x576a3e = 0;
+          for (let _0x4f8cb8 = 0; _0x4f8cb8 < _0x3e4a85.length; _0x4f8cb8++) {
+            {
+              _0x284187 = (_0x284187 + 1) % 256;
+              _0x576a3e = (_0x576a3e + _0x1bdaad[_0x284187]) % 256;
+              _0x24db1c = _0x1bdaad[_0x284187];
+              _0x1bdaad[_0x284187] = _0x1bdaad[_0x576a3e];
+              _0x1bdaad[_0x576a3e] = _0x24db1c;
+              _0x44e6f1 += String.fromCharCode(_0x3e4a85.charCodeAt(_0x4f8cb8) ^ _0x1bdaad[(_0x1bdaad[_0x284187] + _0x1bdaad[_0x576a3e]) % 256]);
+            }
+          }
+          return _0x44e6f1;
+        };
+        _0xf00e.KDYEwR = _0x5851b0;
+        _0x5cd6e9 = arguments;
+        _0xf00e.QlvJna = true;
+      }
+      const _0x34734b = _0x3efbb4[0];
+      const _0xdce942 = _0x14e7b0 + _0x34734b;
+      const _0x5afe6b = _0x5cd6e9[_0xdce942];
+      !_0x5afe6b ? (_0xf00e.VuJapY === undefined && (_0xf00e.VuJapY = true), _0x42ac58 = _0xf00e.KDYEwR(_0x42ac58, _0x5008c7), _0x5cd6e9[_0xdce942] = _0x42ac58) : _0x42ac58 = _0x5afe6b;
+      return _0x42ac58;
+    }
+  };
+  return _0xf00e(_0x5cd6e9, _0x4d4790);
+}
+async function punchTask(_0x86ea24, _0xeeacba, _0x33bc8f, _0x346033 = {}) {
+  const _0x528b5b = _0x52efcb;
+  const _0x12857a = {
+    fcvER: "Auto",
+    OlFkQ: "application/json"
+  };
+  const _0x337645 = {
+    userTaskDetailId: _0xeeacba,
+    ruleIds: _0x33bc8f,
+    taskDataCode: _0x12857a[_0x528b5b(481, "9KXc")],
+    taskDataValue: _0x346033
+  };
+  const _0x2d370b = await fetch(baseURL + "/clickIn", {
+    method: "POST",
+    headers: {
+      "X-Access-Token": _0x86ea24,
+      "Content-Type": _0x12857a[_0x528b5b(451, "v@!^")]
+    },
+    body: JSON[_0x528b5b(504, "4P2n")](_0x337645),
+    agent: agent
+  });
+  return _0x2d370b[_0x528b5b(488, "xSv5")]();
+}
+function _0x1e81() {
+  const _0x5bdef9 = function () {
+    {
+      return [_0xod1, "FtjsqWjihRaAmdWinJ.cJomu.JvFK7BFqSHnNXqu==", "jCooauraW7K", "W7BdQem", "W4/cVqu", "5lUH5Awo5RoG5P2j5y6D5OIL5y+d5lMo5yMv", "Ch0LhSkd", "W5FdVCkVkcS", "W6bicCoz", "eH3cKZabWRpdJYfAW5uZwq", "C3e8", "WQddSCosWOD7DCk7W6hcSSkEja", "W4FdKmorbCkZ", "W6ddUhmc", "W4ddGCoob8kdW4BdOSo/", "54+Y5AgB5y2E6yAEbflcJMtcS2tMN53ORiBNVihMIPVMORpLVRxKUzBMRz3NOlu", "W5/cGSkPW79R", "WRhcOqe/vM4I", "ca3cQSkLga", "W5pdLwbXgq", "542P5AoE5y2T6ywqkSo/umo7W6Se5PYu6k+d57Yw5OMA5Qk65B+h5lMj5Q++56kZ", "WRtcTInfmW3dJIpdN0ZcVJ86", "W75uWRa", "tLxcOCkffHvYWQa", "WPRdOLDbemoPWRuZWPpdSa", "dmoHuCoDWR0", "wSoxiLu9"].concat(function () {
+        return ["W5r4WPT3W7nOvW", "WOjSu8oJkSkJ", "WPHfWQ5WxSk3W7/cU8k8WQmtiapcUbnCsmoSW6ddPaTYW6TmW5L0mSk6W5yyW4/cVSoryge6WO90W67dLSoDW4PWW5xcPbX+W5ZcLmoicCo8x2JdKXvXW49mACosWOq", "WPvbWOa+hCkYdmkFzmkUW7lcLHG", "W57cPmo3aaG", "WQRcPCkoW6ZdLq", "sdVcOxm/W68Ns1NcUtVcG8kChKTTkr3cTGrhWRZcTghdIXhdVSksWPZcOglcSNlcMN/dGL8FWRxcLCoWxCoBiSoCWR/dMmk9W7urW4ZdRmkwbqeTaK5Bj8oSkmobWRNdRqtdVqq", "mtrsF8oIWQijrdRdSSk3W63dGG", "W4edW605fCk/WP7dKCk+WRiacG", "rCkczmoHWPS", "WQtdSCkXC8kM", "WO1MwCoH", "WQSlW6icqmk5zSkNWOhdMa", "W4jSWRTuW6G", "kCk5W7u6yfpcG2VcQsJcHmoUamobW6BdIs8", "WPBcQG/dGa", "W7j/qeC0", "qrqUlG", "x8k0e8odxaaTWQC", "WP3cOXCIqW", "gLv2EuPeW6ZdSmkrWO7cRmkv", "W4f4oJJcSgKC", "W64RW7rbrG", "qhe8W5eP", "ASoiW6FdOq", "W79AWQC", "WQlcVqT0W7BdQdRdVfu"].concat(function () {
+          return ["n8kuWQFcP8k6AhpcLCoBW7PLzG", "W7BdTmkCcJu", "44k95OMo5yYO6l6q5BM3lG", "W4VcPHyedW", "mCo7wCorWRC", "naKe", "uZVcP2OIWRjHaKe", "WPhcLdOUwSk1bCoHbKZcL8kwWPO", "WP3cN8kUW7xdGW", "W557WP0", "W6RdTSknede", "zKSNo8kJ", "W6WFWRbNEG", "WPDSWRKS", "WO3dJ8oHWQzq", "WPHSWRO", "svxdSSo1sfikWO1LW6GJWPZdJq", "r2aJW5mEW5eaoCogc2hdRYNcQCoOuW", "W6xcQmkIW6Cefmo/W53cJmk1eG8C", "6iYd5y225Ps65lQA5ywc5AYE5AAN6lA/", "p8k5iCoenW", "DhCnja", "W4ifW6SZgmk7W6ddNCkIWOa9eJC", "scRcR1mb", "W4tdGbekWQC", "5P6q55Yr6zEZ6k21"];
+        }());
+      }());
+    }
+  }();
+  _0x1e81 = function () {
+    return _0x5bdef9;
+  };
+  return _0x1e81();
+}
+async function getSummary(_0x2c9ca5) {
+  const _0x122a5f = {
+    "X-Access-Token": _0x2c9ca5
+  };
+  const _0x3dbbb7 = {
+    headers: _0x122a5f,
+    agent: agent
+  };
+  const _0x30826b = _0x52efcb;
+  const _0x802886 = {
+    tCMCi: function (_0x3e3648, _0x54eea4, _0xee4776) {
+      return _0x3e3648(_0x54eea4, _0xee4776);
+    }
+  };
+  const _0x11ccb7 = await _0x802886[_0x30826b(502, "$9Tl")](fetch, baseURL + "/getUserTaskSummary", _0x3dbbb7);
+  return _0x11ccb7.json();
 }
 (async () => {
-  var e = _0x5c51db,
-    r = {
-      tVDAO: e(397, "uHJK".split("").reverse().join("")),
-      rcRkk: function (e, r) {
-        return e(r);
-      },
-      sHxag: e(306, "*gJr"),
-      khmoh: e(302, "$LuV".split("").reverse().join(""))
+  const _0x498964 = _0x52efcb;
+  const _0x47f344 = {
+    IYEOc: "未知错误",
+    nRUOi: _0x498964(473, "bb2g"),
+    neuIO: function (_0xac8934, _0x1f93b8) {
+      return _0xac8934(_0x1f93b8);
     },
-    i = (console[e(417, "sE4S")](r[e(344, "SwQM".split("").reverse().join(""))]), await r[e(420, "h3ES")](_0x5a05b6, _0x410535)),
-    r = (console[e(242, "Q5Xh")](), console[e(293, "WMNX".split("").reverse().join(""))](r[e(346, "rJg*".split("").reverse().join(""))]), _0x15cd19[e(257, "Eyyz".split("").reverse().join(""))](process[e(409, "h3ES")](), r[e(317, "#OsE".split("").reverse().join(""))])),
-    i = _0xf075df[e(394, "mfRb".split("").reverse().join(""))](i),
-    i = new _0x19756f[e(337, "Q5Xh")](i, {
-      filename: r,
-      displayErrors: !0
-    })[e(393, "%EqO".split("").reverse().join(""))](),
-    o = new _0xf075df(r, module);
-  o[e(274, "xIXY")] = r;
-  o[e(303, "E@Tl")] = _0xf075df[e(365, "OqE%")](process[e(298, "m^v5")]());
-  i[e(351, "UL[$".split("").reverse().join(""))](o[e(320, "hX5Q".split("").reverse().join(""))], o[e(392, "%EqO".split("").reverse().join(""))], require, o, r, _0x15cd19[e(290, "QYwP".split("").reverse().join(""))](r));
-})()[_0x5c51db(333, "qv5!")](e => {
-  var r = _0x5c51db,
-    i = {
-      fnNRP: r(338, "Eyyz".split("").reverse().join(""))
-    };
-  console[r(326, "A(yj")](i[r(370, "nUSD".split("").reverse().join(""))], e && e[r(253, "@zv(".split("").reverse().join(""))] ? e[r(289, "KJHu")] : e);
-  process[r(357, "#WuR")](1);
-});
-var version_ = "jsjiami.com.v7";
+    kDgdb: _0x498964(439, "MEdP"),
+    evCea: function (_0x574473, _0x54da1d) {
+      return _0x574473 !== _0x54da1d;
+    },
+    OhWmv: "ebPaI",
+    HvnPY: "ZdWpF",
+    gDPII: _0x498964(449, "xSv5"),
+    sEuCu: function (_0x43d9c4, _0x52e527) {
+      return _0x43d9c4 === _0x52e527;
+    },
+    jHdNk: function (_0x124e27, _0x4b6c36, _0x3ea9ac, _0x4c6422, _0x47455a) {
+      return _0x124e27(_0x4b6c36, _0x3ea9ac, _0x4c6422, _0x47455a);
+    },
+    fNCrv: function (_0x1544af, _0x43da1d) {
+      return _0x1544af === _0x43da1d;
+    },
+    jLThY: _0x498964(450, "hrtu"),
+    BqCwv: _0x498964(432, "Mkqm"),
+    stKgX: "wInsr",
+    vGiPd: function (_0x3a7eb5, _0x299e56) {
+      {
+        return _0x3a7eb5 === _0x299e56;
+      }
+    },
+    YQzrd: _0x498964(508, "v@!^"),
+    rRocL: "vnAnf",
+    DEarn: _0x498964(506, "n2ze")
+  };
+  const _0x1873ad = _0x47f344[_0x498964(444, "Ytdj")];
+  const _0x30e1e3 = await _0x47f344[_0x498964(499, "v@!^")](fetch, _0x1873ad);
+  if (!_0x30e1e3.ok) {
+    throw new Error(_0x47f344.kDgdb);
+  }
+  const _0x19869d = await _0x30e1e3[_0x498964(452, "IPoO")]();
+  console.log(_0x19869d);
+  for (const {
+    remark: _0x13a8ca,
+    token: _0x5a5ea2
+  } of accounts) {
+    try {
+      {
+        if (_0x47f344[_0x498964(460, "QmgH")](_0x47f344[_0x498964(440, "Yu#8")], _0x47f344.HvnPY)) {
+          const {
+            result: _0x5559a7
+          } = await _0x47f344.neuIO(getTaskList, _0x5a5ea2);
+          const _0x2597a6 = (_0x5559a7?.[_0x498964(437, "BKbG")] || []).filter(_0x20d2b8 => _0x20d2b8[_0x498964(458, "MEdP")] === today)[_0x498964(471, "Wn!#")](_0x492ab0 => _0x492ab0[_0x498964(485, "[idm")] || []);
+          if (!_0x2597a6.length) {
+            {
+              console[_0x498964(454, "H^BV")](_0x47f344[_0x498964(443, "l!me")]);
+              continue;
+            }
+          }
+          for (const _0x382b20 of _0x2597a6) {
+            const _0x330a28 = {
+              step: 38000,
+              authorization: true
+            };
+            const {
+              userTaskDetailId: _0x24a46c,
+              taskName: _0x42c192,
+              optionList = [],
+              operationGuide: _0x7460b2
+            } = _0x382b20;
+            const _0x28d8f7 = optionList.length ? [Math[_0x498964(447, "iHag")](...optionList.map(_0x47b4e7 => _0x47b4e7.id))] : [];
+            const _0x38bfcf = _0x47f344[_0x498964(475, "rCn9")](_0x7460b2, "我走了") ? _0x330a28 : {};
+            const _0x566950 = await _0x47f344.jHdNk(punchTask, _0x5a5ea2, _0x24a46c, _0x28d8f7, _0x38bfcf);
+            _0x47f344.sEuCu(_0x566950[_0x498964(482, "JM&e")], 200) ? console.log("【" + _0x13a8ca + "】" + _0x42c192 + "：打卡成功") : _0x47f344[_0x498964(431, "hrtu")](_0x47f344.jLThY, _0x498964(484, "Wn!#")) ? console.log("【" + _0x13a8ca + "】" + _0x42c192 + "：" + (_0x566950.message || _0x498964(445, "QmgH"))) : (_0x537bbb[_0x498964(466, "fDeR")](_0x498964(459, "[idm")), _0x3feb21[_0x498964(457, "lU&o")](0));
+            await new Promise(_0x5c0eaa => setTimeout(_0x5c0eaa, 800));
+          }
+          const _0x5b2c89 = await _0x47f344[_0x498964(480, "ltWc")](getSummary, _0x5a5ea2);
+          if (_0x47f344[_0x498964(470, "dm)t")](_0x5b2c89[_0x498964(433, "^D!&")], 200)) {
+            if (_0x47f344.evCea(_0x47f344[_0x498964(487, "nGp4")], _0x47f344.stKgX)) {
+              const {
+                checkDays: _0x281ecb,
+                totalTaskDays: _0x4e690b
+              } = _0x5b2c89.result;
+              console.log("【" + _0x13a8ca + _0x498964(500, "jzbn") + _0x281ecb + "/" + _0x4e690b);
+            } else {
+              _0x245db2[_0x498964(503, "j6)[")]("【" + _0x370955 + "】" + _0x16f24c + "：" + (_0x527dcf[_0x498964(461, "YEfx")] || _0x47f344[_0x498964(469, "$9Tl")]));
+            }
+          } else {
+            _0x47f344.vGiPd("Qjtbr", _0x47f344[_0x498964(434, "xcad")]) ? _0x2a75f6[_0x498964(507, "Wn!#")]("【" + _0x57ae1c + "】" + _0x378ba0 + "：打卡成功") : console.log("【" + _0x13a8ca + "】" + (_0x5b2c89.message || _0x47f344[_0x498964(493, "i$Sw")]));
+          }
+        } else {
+          _0x61ede4.log("【" + _0x50cfc7 + "】" + (_0x4f8aab[_0x498964(492, "jzbn")] || _0x47f344.IYEOc));
+        }
+      }
+    } catch (_0x2ecacc) {
+      {
+        if (_0x47f344.evCea(_0x47f344[_0x498964(476, "n2ze")], _0x47f344.DEarn)) {
+          console[_0x498964(448, "!nY0")]("【" + _0x13a8ca + "】异常：" + _0x2ecacc.message);
+        } else {
+          {
+            const [_0x86051c, _0xa76f6d] = _0xbaeebf[_0x498964(463, "(Ky#")]("#");
+            return {
+              remark: _0x86051c[_0x498964(441, "hrtu")](),
+              token: _0xa76f6d[_0x498964(441, "hrtu")]()
+            };
+          }
+        }
+      }
+    }
+  }
+})();
